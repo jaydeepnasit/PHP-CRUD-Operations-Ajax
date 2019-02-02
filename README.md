@@ -11,3 +11,4 @@ Add, Edit, Delete &amp; Searching Records Using jQuery, Ajax, PHP And MySQL || P
 6. Enjoy  ☺☺☺☺
 
 ![a1](https://user-images.githubusercontent.com/26626045/52166024-09681000-26bd-11e9-8ad9-4da8b5cf3b43.jpg)
+
